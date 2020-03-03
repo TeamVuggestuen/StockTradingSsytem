@@ -1,0 +1,2 @@
+# StockTradingSsytem
+Observer pattern
