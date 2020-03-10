@@ -10,6 +10,7 @@ namespace StockTradingSystem_Observer
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
